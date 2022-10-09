@@ -6,7 +6,7 @@
 - 🔭 I’m currently available for hire
 
 
-- 🌱 I’m currently learning  **NodeJS,REACT,CSS,SQL,JAVASCRIPT,PYTHON,HTML**
+- 🌱 I’m currently learning  **C++,NodeJS,REACT,CSS,SQL,JAVASCRIPT,PYTHON,HTML**
 
 
 
